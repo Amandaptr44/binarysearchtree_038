@@ -27,4 +27,9 @@ public :
 	{
 		ROOT = NULL; //Initialing ROOT to null
 	}
+
+	void insert(string element)
+	{
+		Node* newNode = new Node(element, NULL, NULL); // Allocate memory for the new node
+	}
 };
