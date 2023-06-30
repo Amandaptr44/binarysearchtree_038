@@ -17,3 +17,14 @@ public :
 		rightchild = r;
 	}
 };
+
+class BinaryTree
+{
+public :
+	Node* ROOT;
+
+	BinaryTree()
+	{
+		ROOT = NULL; //Initialing ROOT to null
+	}
+};
