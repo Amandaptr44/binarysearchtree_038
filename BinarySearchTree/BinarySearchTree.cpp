@@ -36,6 +36,7 @@ public :
 		newNode->rightchild = NULL; // Make the right child of the new node point to NULL
 
 		Node* parent = NULL;
-		
+		Node* currentNode = NULL;
+
 	}
 };
