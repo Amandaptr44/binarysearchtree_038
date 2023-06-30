@@ -34,6 +34,8 @@ public :
 		newNode->info = element; // Assign value to the data field of the of the new node
 		newNode->leftchild = NULL; // Make the left child of the new node point to NULL
 		newNode->rightchild = NULL; // Make the right child of the new node point to NULL
+
+		Node* parent = NULL;
 		
 	}
 };
