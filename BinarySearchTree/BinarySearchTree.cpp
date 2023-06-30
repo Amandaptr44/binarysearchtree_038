@@ -101,4 +101,8 @@ public :
 		}
 	}
 
+	void postorder(Node* ptr)
+	{
+		// Performs the postorder transversal of the tree
+	}
 };
