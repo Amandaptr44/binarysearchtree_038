@@ -124,7 +124,7 @@ int main()
 	while (true)
 	{
 		cout << "\nMenu" << endl;
-		
+		cout << "1. Implement insert operation" << endl;
 
 	}
 }
